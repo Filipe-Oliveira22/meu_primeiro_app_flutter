@@ -1,0 +1,11 @@
+mvvm_app_flutter/
+├── .devcontainer/
+│   └── devcontainer.json
+├── lib/
+│   ├── models/
+│   ├── views/
+│   ├── viewmodels/
+│   └── services/
+├── pubspec.yaml
+├── main.dart
+└── .gitignore
